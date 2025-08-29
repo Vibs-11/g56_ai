@@ -1,0 +1,330 @@
+symptoms,disease
+red eyes fever koplik spots,measles
+stomach cramps vomiting diarrhea nausea,gastroenteritis
+blurred vision fainting low blood pressure dizziness fatigue,hypotension
+cloudy urine strong urine smell frequent urination lower abdominal pain,UTI
+low body temperature slow breathing slurred speech confusion shivering,hypothermia
+sore throat mild cough runny nose watery eyes,cold
+nausea vomiting abdominal pain diarrhea,food_poisoning
+frequent urination strong urine smell cloudy urine,UTI
+phlegm fever cough chest pain,pneumonia
+cough fatigue chest discomfort mild fever,bronchitis
+belching fullness upper abdominal pain bloating nausea,indigestion
+fever cough chest pain phlegm,pneumonia
+cloudy urine lower abdominal pain strong urine smell,UTI
+chills sweating nausea headache high fever,malaria
+headache nausea high fever chills,malaria
+phlegm cough shortness of breath,pneumonia
+itch hives sneezing,allergy
+blurred vision increased thirst slow healing,diabetes_high_sugar
+vomiting chills nausea diarrhea,food_poisoning
+red eyes runny nose skin rash itchy eyes sneezing,allergy
+fever shortness of breath loss of smell loss of taste,covid19
+swollen lymph nodes painful swallowing fever sore throat,strep_throat
+chest pain cough fever,pneumonia
+nausea high fever headache sweating,malaria
+red eyes gritty feeling eye discharge itchy eyes,conjunctivitis
+eye discharge tearing red eyes itchy eyes,conjunctivitis
+sneezing mild cough sore throat,cold
+shortness of breath chest tightness night cough,asthma_attack
+fever cough phlegm shortness of breath,pneumonia
+shortness of breath loss of taste dry cough,covid19
+runny nose red eyes itching,allergy
+hives itching sneeze,allergy
+chills headache nausea,malaria
+sensitivity to light aura sensitivity to sound,migraine
+trouble sleeping muscle tension headache,stress
+swollen lymph nodes white patches throat fever,strep_throat
+chest tightness wheezing night cough,asthma_attack
+pain urination vomiting nausea,kidney_stones
+fatigue dizziness dry mouth thirst,dehydration
+burning chest sour taste acid reflux worse after meals,heartburn
+nausea sensitivity to light aura severe headache sensitivity to sound,migraine
+sneezing itching runny nose,allergy
+low body temperature confusion slow breathing shivering slurred speech,hypothermia
+nausea stomach pain diarrhea vomiting fever,food_poisoning
+high fever chills nausea,malaria
+watery eyes stuffy nose sneeze sore throat mild cough,cold
+lower abdominal pain burning urination frequent urination,UTI
+acid reflux sour taste worse after meals,heartburn
+severe headache sensitivity to light nausea,migraine
+fatigue scab lesions blisters itchy rash,chickenpox
+shortness of breath night cough wheezing chest tightness,asthma_attack
+eye discharge red eyes gritty feeling,conjunctivitis
+vision problems chest pain high blood pressure,hypertension
+headache post nasal drip facial pain runny nose,sinusitis
+red eyes gritty feeling eye discharge tearing,conjunctivitis
+runny nose red eyes fever,measles
+dark urine fatigue thirst,dehydration
+post nasal drip facial pain runny nose nasal congestion,sinusitis
+lower abdominal pain frequent urination strong urine smell burning urination cloudy urine,UTI
+belching bloating upper abdominal pain fullness,indigestion
+nausea confusion hot dry skin,heatstroke
+chest tightness wheezing night cough cough shortness of breath,asthma_attack
+photophobia nausea severe headache sensitivity to sound aura,migraine
+fatigue high fever sore throat,flu
+runny nose itch skin rash red eyes,allergy
+red eyes fever koplik spots cough,measles
+wheezing shortness of breath chest tightness,asthma_attack
+slow healing increased thirst fatigue,diabetes_high_sugar
+scab lesions itchy rash fever,chickenpox
+dark urine thirst dry mouth dizziness fatigue,dehydration
+gritty feeling itchy eyes eye discharge tearing,conjunctivitis
+nausea hot dry skin rapid heartbeat,heatstroke
+sweating palpitations trouble sleeping restlessness,anxiety
+strong urine smell lower abdominal pain cloudy urine,UTI
+fullness nausea bloating upper abdominal pain belching,indigestion
+fatigue sore throat high fever,flu
+thirst fatigue dizziness dark urine dry mouth,dehydration
+fatigue trouble sleeping headache irritability,stress
+ear drainage fever irritability hearing loss,ear_infection
+severe headache muscle pain high fever,dengue
+dark urine thirst dry mouth,dehydration
+fatigue shortness of breath dizziness,anemia
+diarrhea low fever nausea stomach cramps vomiting,gastroenteritis
+belching bloating fullness,indigestion
+shortness of breath fever cough phlegm,pneumonia
+fever shortness of breath cough chest pain,pneumonia
+cough mild fever chest discomfort,bronchitis
+cough fever phlegm shortness of breath,pneumonia
+nausea confusion very high fever hot dry skin rapid heartbeat,heatstroke
+runny nose nasal congestion post nasal drip,sinusitis
+mucus fatigue chest discomfort mild fever cough,bronchitis
+vomiting diarrhea stomach cramps low fever,gastroenteritis
+fatigue fever itchy rash,chickenpox
+runny nose koplik spots cough red eyes fever,measles
+swollen lymph nodes sore throat white patches throat fever painful swallowing,strep_throat
+pale skin weakness dizziness,anemia
+fever ear pain ear drainage irritability,ear_infection
+slow breathing low body temperature shivering confusion slurred speech,hypothermia
+ear pain hearing loss ear drainage,ear_infection
+shortness of breath anosmia fever dry cough loss of taste,covid19
+sore throat fever muscle pain,flu
+blisters scab lesions fever,chickenpox
+sneezing runny nose mild cough,cold
+palpitations nervousness restlessness trouble sleeping,anxiety
+fever dry cough anosmia loss of taste,covid19
+fever sore throat painful swallowing swollen lymph nodes,strep_throat
+loss of taste shortness of breath dry cough,covid19
+behind eye pain rash muscle pain,dengue
+low body temperature slow breathing shivering,hypothermia
+fatigue fainting low blood pressure,hypotension
+low body temperature shivering slow breathing slurred speech,hypothermia
+cough chest pain shortness of breath phlegm,pneumonia
+stomach cramps low fever vomiting,gastroenteritis
+hot dry skin rapid heartbeat very high fever nausea,heatstroke
+very high fever nausea confusion,heatstroke
+mucus mild fever cough,bronchitis
+fatigue trouble sleeping irritability headache,stress
+rapid heartbeat very high fever nausea,heatstroke
+fatigue weakness shortness of breath,anemia
+low fever vomiting stomach cramps nausea,gastroenteritis
+fever swollen lymph nodes sore throat,strep_throat
+fatigue fainting blurred vision low blood pressure,hypotension
+vomiting stomach cramps nausea,gastroenteritis
+palpitations restlessness sweating nervousness,anxiety
+trouble sleeping restlessness nervousness palpitations sweating,anxiety
+vomiting low fever nausea diarrhea,gastroenteritis
+high fever joint pain rash severe headache,dengue
+irritability fever ear drainage,ear_infection
+fever scab lesions itchy rash fatigue,chickenpox
+cough fever fatigue sore throat body ache,flu
+fever white patches throat swollen lymph nodes painful swallowing,strep_throat
+trouble sleeping headache fatigue,stress
+runny nose cough fever,measles
+shortness of breath cough wheezing,asthma_attack
+increased thirst fatigue frequent urination slow healing,diabetes_high_sugar
+thirst dry mouth fatigue dark urine dizziness,dehydration
+night cough chest tightness cough wheezing,asthma_attack
+fatigue headache trouble sleeping irritability muscle tension,stress
+rapid heartbeat confusion very high fever,heatstroke
+nausea bloating upper abdominal pain belching,indigestion
+chills diarrhea nausea stomach pain,food_poisoning
+blurred vision low blood pressure fatigue dizziness,hypotension
+photophobia sensitivity to sound throbbing headache,migraine
+dizziness pale skin fatigue shortness of breath weakness,anemia
+fatigue scab lesions fever itchy rash,chickenpox
+vomiting pain urination severe side pain,kidney_stones
+fatigue cough chest discomfort,bronchitis
+dizziness pale skin fatigue shortness of breath weakness,anemia
+itchy eyes gritty feeling tearing eye discharge,conjunctivitis
+worse after meals lying down worse sour taste acid reflux,heartburn
+nausea low fever vomiting diarrhea,gastroenteritis
+vomiting diarrhea nausea stomach pain,food_poisoning
+dizziness dark urine thirst,dehydration
+runny nose koplik spots cough fever,measles
+dizziness vision problems headache,hypertension
+severe headache rash high fever,dengue
+sneezing mild cough stuffy nose,cold
+high fever muscle pain tiredness,flu
+worse after meals lying down worse sour taste,heartburn
+pain urination vomiting severe side pain,kidney_stones
+burning urination lower abdominal pain cloudy urine strong urine smell,UTI
+very high fever confusion hot dry skin nausea,heatstroke
+facial pain post nasal drip nasal congestion,sinusitis
+restlessness sweating palpitations,anxiety
+body ache fatigue dry cough sore throat high fever,flu
+hot dry skin rapid heartbeat confusion,heatstroke
+strong urine smell burning urination cloudy urine lower abdominal pain,UTI
+tearing red eyes gritty feeling eye discharge,conjunctivitis
+shortness of breath dizziness fatigue pale skin weakness,anemia
+dry cough shortness of breath anosmia,covid19
+mild fever fatigue chest discomfort,bronchitis
+fever diarrhea abdominal pain,food_poisoning
+cough koplik spots red eyes runny nose fever,measles
+runny nose nasal congestion facial pain post nasal drip,sinusitis
+sore throat fever painful swallowing,strep_throat
+wheezing cough night cough chest tightness,asthma_attack
+vomiting diarrhea nausea fever stomach pain,food_poisoning
+fever hearing loss ear pain irritability ear drainage,ear_infection
+loss of smell shortness of breath loss of taste fever,covid19
+watery eyes runny nose mild cough sore throat,cold
+restlessness palpitations sweating,anxiety
+dry mouth fatigue thirst dark urine,dehydration
+cloudy urine strong urine smell frequent urination lower abdominal pain burning urination,UTI
+muscle tension headache irritability fatigue trouble sleeping,stress
+sweating nausea chills headache,malaria
+chest tightness cough night cough shortness of breath wheezing,asthma_attack
+tiredness body ache cough sore throat fever,flu
+headache sweating high fever,malaria
+nasal congestion runny nose post nasal drip,sinusitis
+severe headache joint pain rash,dengue
+sour taste lying down worse burning chest acid reflux worse after meals,heartburn
+fatigue frequent urination increased thirst,diabetes_high_sugar
+loss of taste fever anosmia shortness of breath,covid19
+headache nasal congestion runny nose facial pain,sinusitis
+sore throat fatigue muscle pain dry cough,flu
+skin rash sneezing red eyes,allergy
+nausea blood in urine flank pain pain urination,kidney_stones
+fever blisters fatigue,chickenpox
+night cough wheezing shortness of breath chest tightness cough,asthma_attack
+bloating fullness upper abdominal pain nausea,indigestion
+itch red eyes sneezing runny nose,allergy
+itchy eyes tearing eye discharge,conjunctivitis
+cough phlegm fatigue mild fever chest discomfort,bronchitis
+sore throat sneezing watery eyes,cold
+fatigue thirst dark urine,dehydration
+blurred vision increased thirst slow healing frequent urination,diabetes_high_sugar
+fever blisters scab lesions itchy rash,chickenpox
+weakness fatigue dizziness shortness of breath,anemia
+restlessness trouble sleeping sweating palpitations,anxiety
+dizziness shortness of breath weakness pale skin fatigue,anemia
+shivering confusion low body temperature slurred speech,hypothermia
+shortness of breath fever loss of smell loss of taste dry cough,covid19
+fever vomiting nausea,food_poisoning
+loss of taste loss of smell fever,covid19
+upper abdominal pain bloating nausea fullness,indigestion
+fever cough body ache sore throat tiredness,flu
+post nasal drip nasal congestion facial pain,sinusitis
+vision problems headache chest pain,hypertension
+worse after meals acid reflux lying down worse,heartburn
+blurred vision dizziness fatigue low blood pressure,hypotension
+tearing gritty feeling itchy eyes,conjunctivitis
+vision problems chest pain headache,hypertension
+increased thirst fatigue frequent urination,diabetes_high_sugar
+itchy rash blisters fatigue,chickenpox
+frequent urination fatigue blurred vision slow healing,diabetes_high_sugar
+scab lesions fatigue fever itchy rash,chickenpox
+trouble sleeping restlessness nervousness palpitations,anxiety
+vomiting low fever diarrhea stomach cramps,gastroenteritis
+skin rash red eyes sneeze,allergy
+night cough chest tightness shortness of breath,asthma_attack
+sensitivity to sound throbbing headache photophobia,migraine
+muscle tension irritability trouble sleeping,stress
+mild fever chest discomfort cough,bronchitis
+sneeze itching skin rash red eyes,allergy
+trouble sleeping headache irritability muscle tension,stress
+headache irritability muscle tension trouble sleeping,stress
+high fever nausea chills sweating,malaria
+vomiting nausea fever diarrhea stomach pain,food_poisoning
+facial pain headache nasal congestion post nasal drip,sinusitis
+low blood pressure blurred vision fatigue,hypotension
+fever painful swallowing sore throat,strep_throat
+sweating chills headache,malaria
+aura sensitivity to light sensitivity to sound severe headache,migraine
+fainting fatigue low blood pressure,hypotension
+runny nose facial pain nasal congestion post nasal drip,sinusitis
+cough fever body ache sore throat,flu
+mild cough sore throat runny nose,cold
+ear drainage irritability ear pain hearing loss fever,ear_infection
+stuffy nose sneeze mild cough sore throat,cold
+sensitivity to sound sensitivity to light aura nausea severe headache,migraine
+burning urination lower abdominal pain strong urine smell frequent urination cloudy urine,UTI
+slow healing increased thirst blurred vision frequent urination,diabetes_high_sugar
+cough mild fever fatigue,bronchitis
+burning chest worse after meals acid reflux lying down worse,heartburn
+red eyes cough fever koplik spots,measles
+fainting fatigue low blood pressure,hypotension
+high fever severe headache behind eye pain rash,dengue
+hot dry skin confusion nausea very high fever,heatstroke
+cough red eyes fever runny nose koplik spots,measles
+fatigue itchy rash scab lesions blisters fever,chickenpox
+sour taste burning chest acid reflux lying down worse,heartburn
+hot dry skin nausea very high fever rapid heartbeat,heatstroke
+sensitivity to light nausea throbbing headache sensitivity to sound aura,migraine
+eye discharge tearing gritty feeling itchy eyes,conjunctivitis
+blood in urine vomiting severe side pain pain urination,kidney_stones
+ear pain irritability fever ear drainage,ear_infection
+fever ear pain ear drainage hearing loss,ear_infection
+fever dry cough loss of taste shortness of breath,covid19
+dizziness chest pain high blood pressure,hypertension
+chills vomiting stomach pain diarrhea,food_poisoning
+belching nausea upper abdominal pain bloating,indigestion
+fatigue dizziness low blood pressure,hypotension
+ear pain hearing loss fever,ear_infection
+increased thirst frequent urination blurred vision slow healing,diabetes_high_sugar
+high fever nausea chills,malaria
+hot dry skin nausea very high fever rapid heartbeat,heatstroke
+pain urination blood in urine flank pain vomiting nausea,kidney_stones
+slow breathing shivering low body temperature,hypothermia
+dizziness dry mouth dark urine fatigue thirst,dehydration
+nausea vomiting flank pain blood in urine pain urination,kidney_stones
+frequent urination fatigue slow healing,diabetes_high_sugar
+rash joint pain behind eye pain high fever severe headache,dengue
+dizziness thirst fatigue,dehydration
+blurred vision fatigue increased thirst slow healing frequent urination,diabetes_high_sugar
+sensitivity to sound sensitivity to light aura,migraine
+burning urination strong urine smell frequent urination,UTI
+runny nose red eyes fever cough,measles
+blisters fatigue fever itchy rash,chickenpox
+sweating chills high fever,malaria
+photophobia severe headache sensitivity to sound,migraine
+dizziness fatigue weakness shortness of breath,anemia
+burning chest lying down worse acid reflux sour taste worse after meals,heartburn
+trouble sleeping muscle tension fatigue,stress
+headache high blood pressure dizziness vision problems,hypertension
+dizziness fatigue dry mouth,dehydration
+blurred vision frequent urination fatigue slow healing increased thirst,diabetes_high_sugar
+nausea diarrhea low fever stomach cramps,gastroenteritis
+restlessness nervousness trouble sleeping,anxiety
+pain urination nausea blood in urine flank pain vomiting,kidney_stones
+strong urine smell cloudy urine frequent urination,UTI
+vomiting stomach cramps low fever diarrhea,gastroenteritis
+nausea pain urination flank pain vomiting,kidney_stones
+white patches throat sore throat painful swallowing fever,strep_throat
+behind eye pain joint pain rash high fever severe headache,dengue
+headache irritability muscle tension,stress
+chills nausea high fever,malaria
+cough koplik spots red eyes fever,measles
+runny nose mild cough sore throat,cold
+tearing gritty feeling itchy eyes eye discharge,conjunctivitis
+nasal congestion facial pain runny nose post nasal drip,sinusitis
+cough chest discomfort fatigue mucus,bronchitis
+shortness of breath fever loss of taste,covid19
+slurred speech low body temperature confusion shivering slow breathing,hypothermia
+stomach cramps nausea low fever diarrhea,gastroenteritis
+nervousness restlessness palpitations sweating trouble sleeping,anxiety
+nausea blood in urine vomiting,kidney_stones
+vomiting pain urination nausea blood in urine,kidney_stones
+mucus mild fever cough fatigue,bronchitis
+dizziness low blood pressure blurred vision fainting,hypotension
+shortness of breath phlegm cough,pneumonia
+itch sneeze runny nose,allergy
+behind eye pain rash severe headache joint pain,dengue
+chest pain dizziness headache high blood pressure,hypertension
+headache chest pain dizziness,hypertension
+belching upper abdominal pain fullness nausea,indigestion
+white patches throat painful swallowing sore throat,strep_throat
+fainting dizziness low blood pressure fatigue blurred vision,hypotension
+tearing gritty feeling eye discharge,conjunctivitis
+palpitations nervousness restlessness,anxiety
